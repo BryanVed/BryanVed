@@ -42,9 +42,24 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanVed&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanVed&layout=compact&theme=tokyonight" alt="Top Languages" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanVed&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanVed&theme=nord_dark"
+    alt="Profile Details"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BryanVed&theme=nord_dark"
+    width="45%"
+    alt="Stats"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BryanVed&theme=nord_dark"
+    width="45%"
+    alt="Top Languages"
+  />
 </p>
 
 ---
