@@ -31,10 +31,10 @@
 - 🧾 **[Pharmacy FE](https://www.drogueriane.site/)**  
   Inventory & e-invoicing system with **React + Vite + Tailwind + shadcn**.
 
-- 💳 **[Ucredit](https://github.com/BryanVeraDev/ucredit)**  
+- 💳 **[Ucredit](https://github.com/BryanVed/ucredit)**  
   Credit management system handling products, product types, credits, payments, users, clients, and interest rates.
 
-- 📸 **[PicWiz](https://github.com/BryanVeraDev/appPicWiz)**  
+- 📸 **[PicWiz](https://github.com/BryanVed/appPicWiz)**  
   Social network simulation for image sharing.
 
 ---
@@ -42,9 +42,9 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanVeraDev&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanVeraDev&layout=compact&theme=tokyonight" alt="Top Languages" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanVeraDev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanVed&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanVed&layout=compact&theme=tokyonight" alt="Top Languages" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanVed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
